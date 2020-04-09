@@ -5,7 +5,7 @@ Draw a triangle on the Poincaré Disk uwsing OpenGL.
 
 The program draws a triangle on the poincaré disk after three clicks, then colors the inside of the triangle using ear-clipping triangulation.
 
-![Example output](example.PNG)
+![Example output](example.png)
 
 ## Requirements
 
