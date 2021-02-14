@@ -1,5 +1,5 @@
 # Poincare-Triangle-Opengl
-Draw a triangle on the Poincaré Disk uwsing OpenGL.
+Draw a triangle on the Poincaré Disk using OpenGL.
 
 # School assigment for Computer Graphics course 2020 Spring semester at BME
 
